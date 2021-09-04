@@ -8,18 +8,18 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 
 ## News
 - **[2021 Nov]** Our paper about older adult’s marital status, conversation and well-being is accepted to [NCA 2021](https://www.natcom.org/).
-- **[2021 Nov]** Our poster presentation about support receipt among married and unmarried older adults is accpeted to [GSA 2021](https://www.gsa2021.org/) conference in Phoenix, AZ!
+- **[2021 Nov]** Our poster presentation about support receipt among married and unmarried older adults is accpeted to [GSA 2021](https://www.gsa2021.org/) conference in Phoenix, AZ! :EMOJICODE:1
 
 ## Research Interests
 
-- **Friendships and Social Relationships Across Adulthood** 
-- **Racial/Ethnic Disparities in Social Relationships** 
-- **Daily Experiences & Well-being** 
+:family_man_woman_girl_boy:  **Friendships and Social Relationships Across Adulthood** <br>
+:people_holding_hands: **Racial/Ethnic Disparities in Social Relationships** <br>
+:heart: **Daily Experiences & Well-being** 
 
 ## Education
--  2019 **M.A.** in **Human Development and Family Sciences**, The University of Texas at Austin 
--  2016	**BSSc.** in **Psychology**, **Minor** in Biology, The Chinese University of Hong Kong
--  2014 **Exchange Program** in **Psychology & Biology**, University of Wisconsin-Madison 
+:mortar_board:2019 **M.A.** in **Human Development and Family Sciences**, The University of Texas at Austin <br>
+:mortar_board:2016	**BSSc.** in **Psychology**, **Minor** in Biology, The Chinese University of Hong Kong <br>
+:mortar_board:2014 **Exchange Program** in **Psychology & Biology**, University of Wisconsin-Madison <br>
 
 
 ## Selected Publications
