@@ -37,7 +37,7 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 
 - Huo, M., **Ng, Y. T.**, Fuentecilla, J. L., Leger, K., & Charles, S. T. (2020). Positive encounters as a buffer: older adults’ pain and sleep disturbances in everyday life. *Journal of Aging and Health*, *33*(1-2), 75–85. [https://doi.org/10.1177/0898264320958320](https://doi.org/10.1177/0898264320958320)
 
-## Academic Honors
+## Academic Honors 
 - **[2021]** Top Paper Award, Interpersonal Communication Division, International Communication Association (ICA)
 - **[2020]** Top Paper Award, Aging Division, National Communication Association (NCA)
 - **[2020]** TJ McCallum Memorial Student Award, Gerontological Society of America (GSA)
@@ -47,11 +47,22 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 - **[2015]** Lee Quo Wei CUHK Golden Jubilee Scholars, CUHK [Presentation Ceremony Photo](https://www.oia.cuhk.edu.hk/eng/gallery/the-second-lee-quo-wei-cuhk-golden-jubilee-scholarship-presentation-ceremony/the-second-lee-quo-wei-cuhk-golden-jubilee-scholarship-presentation-ceremony)
 
 ## News
-- **[2021]** Our paper about older adult’s marital status, conversation and well-being is accepted to [NCA 2021](https://www.natcom.org/).
-- **[2021]** Our poster presentation about support receipt among married and unmarried older adults is accpeted to [GSA 2021](https://www.gsa2021.org/) conference in Phoenix, AZ!
+- **[2021 Nov]** Our paper about older adult’s marital status, conversation and well-being is accepted to [NCA 2021](https://www.natcom.org/).
+- **[2021 Nov]** Our poster presentation about support receipt among married and unmarried older adults is accpeted to [GSA 2021](https://www.gsa2021.org/) conference in Phoenix, AZ!
 
 ## Services
+- Secretary: [Texas Aging & Longevity Center Graduate Student Council](https://liberalarts.utexas.edu/talc/students/graduate-student-council.php)
+- Journal Reviewers: [The Journals of Gerontology, Series B: Social Science](https://academic.oup.com/psychsocgerontology).
+- Conference Reviewers: [GSA 2020](https://www.gsa2021.org/), [ICA 2020](https://www.icahdq.org/page/ICA2021), [SPSP](https://meeting.spsp.org/), and [College of Natural Sciences Undergraduate Research Online Forum, UT Austin] (https://cns.utexas.edu/tides/undergraduate/undergraduate-research-forum)
+- Members:
+  <br>
+  Association for Psychological Science (APS)
+  Gerontological Society of America (GSA)	
+  International Communication Association (ICA)
+  National Communication Association (NCA)
+  Texas National Council on Family Relations (NCFR)
+  Southern Gerontological Society (SGS)
+  Society for Personality and Social Psychology (SPSP)
+  Texas Aging & Longevity Center Graduate Student Council (TALC)
 
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+
