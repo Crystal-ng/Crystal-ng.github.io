@@ -8,7 +8,7 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 
 ## News
 - **[2021 Nov]** Our paper about older adult’s marital status, conversation and well-being is accepted to [NCA 2021](https://www.natcom.org/).
-- **[2021 Nov]** Our poster presentation about support receipt among married and unmarried older adults is accpeted to [GSA 2021](https://www.gsa2021.org/) conference in Phoenix, AZ! :EMOJICODE:1
+- **[2021 Nov]** Our poster presentation about support receipt among married and unmarried older adults is accpeted to [GSA 2021](https://www.gsa2021.org/) conference in Phoenix, AZ! 
 
 ## Research Interests
 
@@ -32,7 +32,7 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 
 - Fingerman, K. L., **Ng, Y. T.**, Huo, M., Birditt, K.S., Charles, S. T., & Zarit, S. (2021). Functional limitations, social integration, and daily activities in late life. *The Journals of Gerontology: Psychological Sciences*. *gbab014*. [https://doi.org/10.1093/geronb/gbab014](https://doi.org/10.1093/geronb/gbab014)
 
-- **Ng, Y. T.**, Huo, M., Gleason, M. E., Neff, L. A., Charles, S. T. & Fingerman, K. L. (2021). Friendships in old age: Daily encounters and emotional well-being. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*. *76*(3), 551–562. [https://doi.org/10.1093/geronb/gbaa007](https://doi.org/10.1093/geronb/gbaa007) <strong style="color:red">Highlight</strong> [[Media highlight on Twitter](https://twitter.com/geronsociety/status/1288828207467311104)] 
+- **Ng, Y. T.**, Huo, M., Gleason, M. E., Neff, L. A., Charles, S. T. & Fingerman, K. L. (2021). Friendships in old age: Daily encounters and emotional well-being. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*. *76*(3), 551–562. [https://doi.org/10.1093/geronb/gbaa007](https://doi.org/10.1093/geronb/gbaa007) <strong style="color:red">[[Media highlight on Twitter](https://twitter.com/geronsociety/status/1288828207467311104)] </strong> 
 
 - Huo, M., **Ng, Y. T.**, Birdtt, K. S., & Fingerman, K. L. (2021). Empathy and coping: Older adults’ interpersonal tensions and mood throughout the day. *Gerontology*. *67*(1), 101–111. [https://doi.org/10.1159/000511418](https://doi.org/10.1159/000511418)
 
