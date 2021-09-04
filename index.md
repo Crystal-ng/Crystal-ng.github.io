@@ -4,20 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at University of Texas at Austin.
+I am a Ph.D. candidate at the University of Texas at Austin. I will complete my dissertation and receive a Ph.D. in Human Development and Family Sciences with a Portfolio in Aging & Health and Applied Statistical Modeling from the University of Texas at Austin in August 2022.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Friendships and Social Relationships Across Adulthood** 
+- **Racial/Ethnic Disparities in Social Relationships** 
+- **Daily Experiences & Well-being** 
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
-
+## Education
+-  2019 **M.A.** in **Human Development and Family Sciences**, The University of Texas at Austin 
+-  2016	**BSSc.** in **Psychology**, **Minor** in Biology, The Chinese University of Hong Kong
+-  2014 **Exchange Program** in **Psychology & Biology**, University of Wisconsin-Madison 
 ## Publications
 
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
@@ -35,6 +33,15 @@ I am a Ph.D. student at University of Texas at Austin.
   33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
   <br>
   [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  
+  
+## News
+
+- **[Nov. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
+- **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
+- **[Sept. 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
+- **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+
 
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
