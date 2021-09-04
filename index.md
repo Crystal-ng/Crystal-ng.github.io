@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate at the University of Texas at Austin. I will complete my dissertation and receive a Ph.D. in Human Development and Family Sciences with a Portfolio in Aging & Health and Applied Statistical Modeling from the University of Texas at Austin in August 2022.
+My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Austin. I will complete my dissertation and receive a Ph.D. in Human Development and Family Sciences with a [Portfolio in Aging & Health](https://liberalarts.utexas.edu/talc/students/portfolio-in-aging-and-health/index.php) and [Applied Statistical Modeling](https://stat.utexas.edu/graduate/portfolio-in-applied-statistical-modeling) from the University of Texas at Austin in August 2022.
 
 ## Research Interests
 
@@ -16,7 +16,6 @@ I am a Ph.D. candidate at the University of Texas at Austin. I will complete my 
 -  2019 **M.A.** in **Human Development and Family Sciences**, The University of Texas at Austin 
 -  2016	**BSSc.** in **Psychology**, **Minor** in Biology, The Chinese University of Hong Kong
 -  2014 **Exchange Program** in **Psychology & Biology**, University of Wisconsin-Madison 
-
 
 ## Selected Publications
 
@@ -34,34 +33,22 @@ I am a Ph.D. candidate at the University of Texas at Austin. I will complete my 
 
 - Huo, M., **Ng, Y. T.**, Birdtt, K. S., & Fingerman, K. L. (2021). Empathy and coping: Older adults’ interpersonal tensions and mood throughout the day. *Gerontology*. *67*(1), 101–111. [https://doi.org/10.1159/000511418](https://doi.org/10.1159/000511418)
 
-- Fingerman, K. L., **Ng, Y. T.**, Zhang, S., Britt, K., Colera, G., Birditt, K. S., & Charles, S. T. (2020). Living alone during COVID-19: Social contact and emotional well-being among older adults. *The Journals of Gerontology, Series B: Psychological Sciences and Social Science*. gbaa200.  [https://doi.org/10.1093/geronb/gbaa200](https://doi.org/10.1093/geronb/gbaa200)
+- Fingerman, K. L., **Ng, Y. T.**, Zhang, S., Britt, K., Colera, G., Birditt, K. S., & Charles, S. T. (2020). Living alone during COVID-19: Social contact and emotional well-being among older adults. *The Journals of Gerontology, Series B: Psychological Sciences and Social Science*. *gbaa200*.  [https://doi.org/10.1093/geronb/gbaa200](https://doi.org/10.1093/geronb/gbaa200)
 
 - Huo, M., **Ng, Y. T.**, Fuentecilla, J. L., Leger, K., & Charles, S. T. (2020). Positive encounters as a buffer: older adults’ pain and sleep disturbances in everyday life. *Journal of Aging and Health*, *33*(1-2), 75–85. [https://doi.org/10.1177/0898264320958320](https://doi.org/10.1177/0898264320958320)
 
+## Academic Honors
+- **[2021]** Top Paper Award, Interpersonal Communication Division, International Communication Association (ICA)
+- **[2020]** Top Paper Award, Aging Division, National Communication Association (NCA)
+- **[2020]** TJ McCallum Memorial Student Award, Gerontological Society of America (GSA)
+- **[2020]** Graduate Student Poster Award, St. David’s CHPR 18th Annual Conference
+- **[2020]** Diversity Graduate Travel Award, SPSP Convention   
+- **[2019]** Graduate Student Poster Award, Texas Council on Family Relations (TXCFR)	
+- **[2015]** Lee Quo Wei CUHK Golden Jubilee Scholars, CUHK [Presentation Ceremony Photo](https://www.oia.cuhk.edu.hk/eng/gallery/the-second-lee-quo-wei-cuhk-golden-jubilee-scholarship-presentation-ceremony/the-second-lee-quo-wei-cuhk-golden-jubilee-scholarship-presentation-ceremony)
 
- ## Publications
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-
-
-- **[Nov. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
-- 
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+## News
+- **[2021]** Our paper about older adult’s marital status, conversation and well-being is accepted to [NCA 2021](https://www.natcom.org/).
+- **[2021]** Our poster presentation about support receipt among married and unmarried older adults is accpeted to [GSA 2021](https://www.gsa2021.org/) conference in Phoenix, AZ!
 
 ## Services
 
