@@ -57,8 +57,8 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 
 ## 📃 Services 
 - Secretary: [Texas Aging & Longevity Center Graduate Student Council](https://liberalarts.utexas.edu/talc/students/graduate-student-council.php)
-- Journal Reviewers: [The Journals of Gerontology, Series B: Social Science](https://academic.oup.com/psychsocgerontology).
-- Ad Hoc Reviewer: [Journal of Marriage and Family](https://onlinelibrary.wiley.com/journal/17413737), [Innovation in Aging](https://academic.oup.com/innovateage) and [Emerging Adulthood](https://journals.sagepub.com/home/eax). 
+- Journal Reviewers: [The Journals of Gerontology, Series B: Social Science](https://academic.oup.com/psychsocgerontology)
+- Ad Hoc Reviewer: [Journal of Marriage and Family](https://onlinelibrary.wiley.com/journal/17413737), [Innovation in Aging](https://academic.oup.com/innovateage) and [Emerging Adulthood](https://journals.sagepub.com/home/eax)
 - Conference Reviewers: [GSA 2020](https://www.gsa2021.org/), [ICA 2020](https://www.icahdq.org/page/ICA2021), [SPSP 2020](https://meeting.spsp.org/), and [Undergraduate Research Forum](https://cns.utexas.edu/tides/undergraduate/undergraduate-research-forum)
 - Members:
   <br>
