@@ -6,9 +6,12 @@ layout: homepage
 
 My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Austin. I will complete my dissertation and receive a Ph.D. in Human Development and Family Sciences with a [Portfolio in Aging & Health](https://liberalarts.utexas.edu/talc/students/portfolio-in-aging-and-health/index.php) and [Applied Statistical Modeling](https://stat.utexas.edu/graduate/portfolio-in-applied-statistical-modeling) from the University of Texas at Austin in August 2022.
 
+
 ## 📅 News  
 - **[2021 Nov]** Our paper about older adult’s marital status, conversation and well-being is accepted to [NCA 2021](https://www.natcom.org/).
 - **[2021 Nov]** Our poster presentation about support receipt among married and unmarried older adults is accpeted to [GSA 2021](https://www.gsa2021.org/) conference in Phoenix, AZ! 
+
+
 
 ## 💡 Research Interests 
 
@@ -49,6 +52,7 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 - **[2020]** Diversity Graduate Travel Award, SPSP Convention   
 - **[2019]** Graduate Student Poster Award, Texas Council on Family Relations (TXCFR)	
 - **[2015]** Lee Quo Wei CUHK Golden Jubilee Scholars, CUHK [(Presentation Ceremony Photo)](https://www.oia.cuhk.edu.hk/eng/gallery/the-second-lee-quo-wei-cuhk-golden-jubilee-scholarship-presentation-ceremony/the-second-lee-quo-wei-cuhk-golden-jubilee-scholarship-presentation-ceremony)
+
 
 
 ## 📃 Services 
