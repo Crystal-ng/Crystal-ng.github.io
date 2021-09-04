@@ -12,17 +12,17 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 
 ## Research Interests
 
-:family_man_woman_girl_boy:  **Friendships and Social Relationships Across Adulthood** <br>
-:people_holding_hands: **Racial/Ethnic Disparities in Social Relationships** <br>
-:heart: **Daily Experiences & Well-being** 
+- **Friendships and Social Relationships Across Adulthood** <br>
+- **Racial/Ethnic Disparities in Social Relationships** <br>
+- **Daily Experiences & Well-being** 
 
-## Education
-:mortar_board:2019 **M.A.** in **Human Development and Family Sciences**, The University of Texas at Austin <br>
-:mortar_board:2016	**BSSc.** in **Psychology**, **Minor** in Biology, The Chinese University of Hong Kong <br>
-:mortar_board:2014 **Exchange Program** in **Psychology & Biology**, University of Wisconsin-Madison <br>
+## Education :mortar_board:
+2019 **M.A.** in **Human Development and Family Sciences**, The University of Texas at Austin <br>
+2016	**BSSc.** in **Psychology**, **Minor** in Biology, The Chinese University of Hong Kong <br>
+2014 **Exchange Program** in **Psychology & Biology**, University of Wisconsin-Madison <br>
 
 
-## Selected Publications
+## Selected Publications :books:
 
 - Fingerman, K. L., Kim., Y. K., **Ng, Y. T.**, Zhang, S., Huo, M., Charles, S. T., & Birditt, K. S. (in press). Television Viewing, Physical Activity, and Loneliness in Late Life. *The Gerontologist* 
 
