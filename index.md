@@ -2,27 +2,27 @@
 layout: homepage
 ---
 
-## About Me 🙋
+## 🙋 About Me 
 
 My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Austin. I will complete my dissertation and receive a Ph.D. in Human Development and Family Sciences with a [Portfolio in Aging & Health](https://liberalarts.utexas.edu/talc/students/portfolio-in-aging-and-health/index.php) and [Applied Statistical Modeling](https://stat.utexas.edu/graduate/portfolio-in-applied-statistical-modeling) from the University of Texas at Austin in August 2022.
 
-## News  📅
+## 📅 News  
 - **[2021 Nov]** Our paper about older adult’s marital status, conversation and well-being is accepted to [NCA 2021](https://www.natcom.org/).
 - **[2021 Nov]** Our poster presentation about support receipt among married and unmarried older adults is accpeted to [GSA 2021](https://www.gsa2021.org/) conference in Phoenix, AZ! 
 
-## Research Interests 💡
+## 💡 Research Interests 
 
 - **Friendships and Social Relationships Across Adulthood** <br>
 - **Racial/Ethnic Disparities in Social Relationships** <br>
 - **Daily Experiences & Well-being** 
 
-## Education 🎓
+## 🎓 Education 
 2019 **M.A.** in **Human Development and Family Sciences**, The University of Texas at Austin <br>
 2016	**BSSc.** in **Psychology**, **Minor** in Biology, The Chinese University of Hong Kong <br>
 2014 **Exchange Program** in **Psychology & Biology**, University of Wisconsin-Madison <br>
 
 
-## Selected Publications 📚
+## 📚 Selected Publications 
 
 - Fingerman, K. L., Kim., Y. K., **Ng, Y. T.**, Zhang, S., Huo, M., Charles, S. T., & Birditt, K. S. (in press). Television Viewing, Physical Activity, and Loneliness in Late Life. *The Gerontologist* 
 
@@ -41,7 +41,7 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 - Huo, M., **Ng, Y. T.**, Fuentecilla, J. L., Leger, K., & Charles, S. T. (2020). Positive encounters as a buffer: older adults’ pain and sleep disturbances in everyday life. *Journal of Aging and Health*, *33*(1-2), 75–85. [https://doi.org/10.1177/0898264320958320](https://doi.org/10.1177/0898264320958320)
 
 
-## Academic Honors 🏆
+## 🏆 Academic Honors 
 - **[2021]** Top Paper Award, Interpersonal Communication Division, International Communication Association (ICA)
 - **[2020]** Top Paper Award, Aging Division, National Communication Association (NCA)
 - **[2020]** TJ McCallum Memorial Student Award, Gerontological Society of America (GSA)
@@ -51,7 +51,7 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 - **[2015]** Lee Quo Wei CUHK Golden Jubilee Scholars, CUHK [(Presentation Ceremony Photo)](https://www.oia.cuhk.edu.hk/eng/gallery/the-second-lee-quo-wei-cuhk-golden-jubilee-scholarship-presentation-ceremony/the-second-lee-quo-wei-cuhk-golden-jubilee-scholarship-presentation-ceremony)
 
 
-## Services 📃
+## 📃 Services 
 - Secretary: [Texas Aging & Longevity Center Graduate Student Council](https://liberalarts.utexas.edu/talc/students/graduate-student-council.php)
 - Journal Reviewers: [The Journals of Gerontology, Series B: Social Science](https://academic.oup.com/psychsocgerontology).
 - Ad Hoc Reviewer: [Journal of Marriage and Family](https://onlinelibrary.wiley.com/journal/17413737), [Innovation in Aging](https://academic.oup.com/innovateage) and [Emerging Adulthood](https://journals.sagepub.com/home/eax). 
