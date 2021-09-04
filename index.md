@@ -57,7 +57,7 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 ## Services
 - Secretary: [Texas Aging & Longevity Center Graduate Student Council](https://liberalarts.utexas.edu/talc/students/graduate-student-council.php)
 - Journal Reviewers: [The Journals of Gerontology, Series B: Social Science](https://academic.oup.com/psychsocgerontology).
-- Conference Reviewers: [GSA 2020](https://www.gsa2021.org/), [ICA 2020](https://www.icahdq.org/page/ICA2021), [SPSP](https://meeting.spsp.org/), and [College of Natural Sciences Undergraduate Research Online Forum, UT Austin] (https://cns.utexas.edu/tides/undergraduate/undergraduate-research-forum)
+- Conference Reviewers: [GSA 2020](https://www.gsa2021.org/), [ICA 2020](https://www.icahdq.org/page/ICA2021), [SPSP](https://meeting.spsp.org/), and [College of Natural Sciences Undergraduate Research Online Forum](https://cns.utexas.edu/tides/undergraduate/undergraduate-research-forum)
 - Members:
   <br>
   Association for Psychological Science (APS)
