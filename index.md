@@ -6,6 +6,10 @@ layout: homepage
 
 My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Austin. I will complete my dissertation and receive a Ph.D. in Human Development and Family Sciences with a [Portfolio in Aging & Health](https://liberalarts.utexas.edu/talc/students/portfolio-in-aging-and-health/index.php) and [Applied Statistical Modeling](https://stat.utexas.edu/graduate/portfolio-in-applied-statistical-modeling) from the University of Texas at Austin in August 2022.
 
+## News
+- **[2021 Nov]** Our paper about older adult’s marital status, conversation and well-being is accepted to [NCA 2021](https://www.natcom.org/).
+- **[2021 Nov]** Our poster presentation about support receipt among married and unmarried older adults is accpeted to [GSA 2021](https://www.gsa2021.org/) conference in Phoenix, AZ!
+
 ## Research Interests
 
 - **Friendships and Social Relationships Across Adulthood** 
@@ -16,10 +20,6 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 -  2019 **M.A.** in **Human Development and Family Sciences**, The University of Texas at Austin 
 -  2016	**BSSc.** in **Psychology**, **Minor** in Biology, The Chinese University of Hong Kong
 -  2014 **Exchange Program** in **Psychology & Biology**, University of Wisconsin-Madison 
-
-## News
-- **[2021 Nov]** Our paper about older adult’s marital status, conversation and well-being is accepted to [NCA 2021](https://www.natcom.org/).
-- **[2021 Nov]** Our poster presentation about support receipt among married and unmarried older adults is accpeted to [GSA 2021](https://www.gsa2021.org/) conference in Phoenix, AZ!
 
 
 ## Selected Publications
@@ -53,11 +53,11 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 - **[2015]** Lee Quo Wei CUHK Golden Jubilee Scholars, CUHK [(Presentation Ceremony Photo)](https://www.oia.cuhk.edu.hk/eng/gallery/the-second-lee-quo-wei-cuhk-golden-jubilee-scholarship-presentation-ceremony/the-second-lee-quo-wei-cuhk-golden-jubilee-scholarship-presentation-ceremony)
 
 
-
 ## Services
 - Secretary: [Texas Aging & Longevity Center Graduate Student Council](https://liberalarts.utexas.edu/talc/students/graduate-student-council.php)
 - Journal Reviewers: [The Journals of Gerontology, Series B: Social Science](https://academic.oup.com/psychsocgerontology).
-- Conference Reviewers: [GSA 2020](https://www.gsa2021.org/), [ICA 2020](https://www.icahdq.org/page/ICA2021), [SPSP](https://meeting.spsp.org/), and [College of Natural Sciences Undergraduate Research Online Forum](https://cns.utexas.edu/tides/undergraduate/undergraduate-research-forum)
+- Ad Hoc Reviewer: [Journal of Marriage and Family](https://onlinelibrary.wiley.com/journal/17413737), [Innovation in Aging](https://academic.oup.com/innovateage) and [Emerging Adulthood](https://journals.sagepub.com/home/eax). 
+- Conference Reviewers: [GSA 2020](https://www.gsa2021.org/), [ICA 2020](https://www.icahdq.org/page/ICA2021), [SPSP 2020](https://meeting.spsp.org/), and [Undergraduate Research Forum](https://cns.utexas.edu/tides/undergraduate/undergraduate-research-forum)
 - Members:
   <br>
   Association for Psychological Science (APS)
