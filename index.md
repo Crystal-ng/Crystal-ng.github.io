@@ -17,6 +17,11 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 -  2016	**BSSc.** in **Psychology**, **Minor** in Biology, The Chinese University of Hong Kong
 -  2014 **Exchange Program** in **Psychology & Biology**, University of Wisconsin-Madison 
 
+## News
+- **[2021 Nov]** Our paper about older adult’s marital status, conversation and well-being is accepted to [NCA 2021](https://www.natcom.org/).
+- **[2021 Nov]** Our poster presentation about support receipt among married and unmarried older adults is accpeted to [GSA 2021](https://www.gsa2021.org/) conference in Phoenix, AZ!
+
+
 ## Selected Publications
 
 - Fingerman, K. L., Kim., Y. K., **Ng, Y. T.**, Zhang, S., Huo, M., Charles, S. T., & Birditt, K. S. (in press). Television Viewing, Physical Activity, and Loneliness in Late Life. *The Gerontologist* 
@@ -33,9 +38,10 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 
 - Huo, M., **Ng, Y. T.**, Birdtt, K. S., & Fingerman, K. L. (2021). Empathy and coping: Older adults’ interpersonal tensions and mood throughout the day. *Gerontology*. *67*(1), 101–111. [https://doi.org/10.1159/000511418](https://doi.org/10.1159/000511418)
 
-- Fingerman, K. L., **Ng, Y. T.**, Zhang, S., Britt, K., Colera, G., Birditt, K. S., & Charles, S. T. (2020). Living alone during COVID-19: Social contact and emotional well-being among older adults. *The Journals of Gerontology, Series B: Psychological Sciences and Social Science*. *gbaa200*.  [https://doi.org/10.1093/geronb/gbaa200](https://doi.org/10.1093/geronb/gbaa200)
+- Fingerman, K. L., **Ng, Y. T.**, Zhang, S., Britt, K., Colera, G., Birditt, K. S., & Charles, S. T. (2020). Living alone during COVID-19: Social contact and emotional well-being among older adults. *The Journals of Gerontology, Series B: Psychological Sciences and Social Science*. *gbaa200*. [https://doi.org/10.1093/geronb/gbaa200](https://doi.org/10.1093/geronb/gbaa200)
 
 - Huo, M., **Ng, Y. T.**, Fuentecilla, J. L., Leger, K., & Charles, S. T. (2020). Positive encounters as a buffer: older adults’ pain and sleep disturbances in everyday life. *Journal of Aging and Health*, *33*(1-2), 75–85. [https://doi.org/10.1177/0898264320958320](https://doi.org/10.1177/0898264320958320)
+
 
 ## Academic Honors 
 - **[2021]** Top Paper Award, Interpersonal Communication Division, International Communication Association (ICA)
@@ -44,11 +50,9 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 - **[2020]** Graduate Student Poster Award, St. David’s CHPR 18th Annual Conference
 - **[2020]** Diversity Graduate Travel Award, SPSP Convention   
 - **[2019]** Graduate Student Poster Award, Texas Council on Family Relations (TXCFR)	
-- **[2015]** Lee Quo Wei CUHK Golden Jubilee Scholars, CUHK [Presentation Ceremony Photo](https://www.oia.cuhk.edu.hk/eng/gallery/the-second-lee-quo-wei-cuhk-golden-jubilee-scholarship-presentation-ceremony/the-second-lee-quo-wei-cuhk-golden-jubilee-scholarship-presentation-ceremony)
+- **[2015]** Lee Quo Wei CUHK Golden Jubilee Scholars, CUHK [(Presentation Ceremony Photo)](https://www.oia.cuhk.edu.hk/eng/gallery/the-second-lee-quo-wei-cuhk-golden-jubilee-scholarship-presentation-ceremony/the-second-lee-quo-wei-cuhk-golden-jubilee-scholarship-presentation-ceremony)
 
-## News
-- **[2021 Nov]** Our paper about older adult’s marital status, conversation and well-being is accepted to [NCA 2021](https://www.natcom.org/).
-- **[2021 Nov]** Our poster presentation about support receipt among married and unmarried older adults is accpeted to [GSA 2021](https://www.gsa2021.org/) conference in Phoenix, AZ!
+
 
 ## Services
 - Secretary: [Texas Aging & Longevity Center Graduate Student Council](https://liberalarts.utexas.edu/talc/students/graduate-student-council.php)
@@ -57,12 +61,19 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 - Members:
   <br>
   Association for Psychological Science (APS)
+  <br>
   Gerontological Society of America (GSA)	
+  <br>
   International Communication Association (ICA)
+  <br>
   National Communication Association (NCA)
+  <br>
   Texas National Council on Family Relations (NCFR)
+  <br>
   Southern Gerontological Society (SGS)
+  <br>
   Society for Personality and Social Psychology (SPSP)
+  <br>
   Texas Aging & Longevity Center Graduate Student Council (TALC)
 
 
