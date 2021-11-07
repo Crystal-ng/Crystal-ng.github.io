@@ -11,7 +11,7 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 
 ## News 
 
-- **[2021 Nov]** My paper about older adult’s marital status, conversation and well-being is accepted to [NCA 2021](https://www.natcom.org/) in Seattle, WA.
+- **[2021 Nov]** My paper about older adult’s marital status, conversation frequency and well-being is accepted to [NCA 2021](https://www.natcom.org/) in Seattle, WA.
 - **[2021 Nov]** My poster presentation about support receipt among married and unmarried older adults is accpeted to [GSA 2021](https://www.gsa2021.org/) virtual conference! 
 - **[2021 Oct]** I defensed my dissertation proposal titled 'Friendship, Racial/ethnic Differences and Well-being in Adulthood' in early October. Yay!
 
@@ -69,6 +69,36 @@ in late life.
 - **[2020]** Diversity Graduate Travel Award, SPSP Convention   
 - **[2019]** Graduate Student Poster Award, Texas Council on Family Relations (TXCFR)	
 - **[2015]** Lee Quo Wei CUHK Golden Jubilee Scholars, CUHK [(Presentation Ceremony Photo)](https://www.oia.cuhk.edu.hk/eng/gallery/the-second-lee-quo-wei-cuhk-golden-jubilee-scholarship-presentation-ceremony/the-second-lee-quo-wei-cuhk-golden-jubilee-scholarship-presentation-ceremony)
+
+
+## 🎤 Selected Conference Presentations
+- **Ng, Y. T.** & Fingerman, K. L. (2021, May). Older adult’s marital status, conversation and well-being in everyday life. Paper presented at the 2021 International Communication Association (ICA). Virtual conference. **[Top Overall Paper award, Interpersonal Communication Division]**
+
+- **Ng, Y. T.** (2021, February). The effects of marital status on older adults' daily support exchanges with social partners. Poster to be presented at the Society for Personality and Social Psychology (SPSP) 2021 Conference. Virtual.
+
+- **Ng, Y. T.**, Huo, M., & Fingerman, K. L. (2020, November). Older adult’s marital status, social interactions, and conversations in everyday life. Paper presented at the 2020 National Communication Association (NCA). Virtual conference. **[Top Paper award, Aging Division]**
+
+- **Ng, Y. T.**, Zhang, S., Britt, K., Colera, G., Birditt, K. S., Charles, S. T., & Fingerman, K. L. (2020, November). Living alone during covid-19: Social contact and emotional well-being among older adults. Late breaker poster presented at the 2020 Annual Scientific Meeting of Gerontological Society of America (GSA). Virtual conference.
+
+- Fingerman, K. L., Kim. Y. J., Zhang, S., **Ng, Y. T.**, Birditt, K. S. (2020, November). Life in the living room. Symposium paper (Chairs: **Y. T. Ng** & E. Munoz) Where We Live Matters: Residential Influences on Health and Well-Being: Streaming Symposia) presented at the 2020 Gerontological Society of America (GSA). Virtual conference.
+
+- **Ng, Y. T.** & Fingerman, K. L. (2020, February). Older adults’ daily social contact, conversation and cognitive health. Poster presented at the 2020. St. David's CHPR 18th Annual Conference. Austin, TX. **[Graduate Student Poster Award]**
+
+- **Ng, Y. T.**, Huo, M., Gleason, M. E., Neff, L. A., & Fingerman, K. L. (2020, February). Daily social encounters in late life. Poster presented at the 2020 Annual Conference of Society for Personality and Social Psychology (SPSP). New Orleans, LA.
+
+- **Ng, Y. T.**, Huo, M., & Fingerman, K. L. (2019, December). Chattier with friends: Older adults’ daily social contact and conversation. Poster presented at the 2019 Aging and Health Informatics Conference (AHIC). Austin, TX.
+
+- **Ng, Y. T.**, Huo, M., & Fingerman, K. L. (2019, November). Does receiving support help? Older adults’ pain and sleep disturbances. Symposium paper (Chair: S. Lee, Psychological and Social Factors Associated with Sleep Health Across Adulthood) presented at the 2019 Gerontological Society of America (GSA). Austin, TX.
+
+- **Ng, Y. T.**, Fingerman, K. L, & Huo, M. (2019, November). Television viewing and health in late life. Symposium paper (Chair: K. S. Birditt, It’s the Little Things That Count: Implications of Daily Experiences for Well-Being and Biological Indicators) presented at the 2019 Annual Scientific Meeting of Gerontological Society of America (GSA). Austin, TX.
+
+- **Ng, Y. T.** (2019, October). Friendships in old age: Daily encounters and emotional well-being. Thesis presented at the 2019 Three Minutes Thesis competition (3MT). The University of Texas at Austin, Austin, TX. **[Competition Video](https://www.youtube.com/watch?v=q3L6Fj--kl8)**
+
+- **Ng, Y. T.**, Huo, M., & Fingerman, K. L. (2019, April). Daily experiences with friends in late life. Poster presented at the 2019 Annual Conference of Southern Gerontological Society (SGS). San Destin, FL.
+
+- **Ng, Y. T.**, Huo, M., Gleason, M. E., & Fingerman, K. L. (2019, February). Daily social encounters in old age. Poster presented at the 2019 Annual Conference of Texas Council on Family Relations (TXCFR). Austin, TX. **[Graduate Student Poster Award]**
+
+- **Ng, Y. T.**, & Fung, H. H. (2016, May). Easy to lose temper in close relationships? The impact of age on angry responses in different relationship contexts. Poster presented at CUHK Undergraduate Research Symposium, Hong Kong.
 
 
 
