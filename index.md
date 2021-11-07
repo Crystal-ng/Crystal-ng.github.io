@@ -9,7 +9,8 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 
 
 
-## News  
+## News 
+
 - **[2021 Nov]** My paper about older adult’s marital status, conversation and well-being is accepted to [NCA 2021](https://www.natcom.org/) in Seattle, WA.
 - **[2021 Nov]** My poster presentation about support receipt among married and unmarried older adults is accpeted to [GSA 2021](https://www.gsa2021.org/) virtual conference! 
 - **[2021 Oct]** I defensed my dissertation proposal titled 'Friendship, Racial/ethnic Differences and Well-being in Adulthood' in early October. Yay!
@@ -23,6 +24,7 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 - **Daily Experiences & Well-being** 
 
 ## 🎓 Education 
+
 2022 (anticipated) **PH.D** in **Human Development and Family Sciences**, The University of Texas at Austin <br>
 2019 **M.A.** in **Human Development and Family Sciences**, The University of Texas at Austin <br>
 2016	**BSSc.** in **Psychology**, **Minor** in Biology, The Chinese University of Hong Kong <br>
@@ -30,6 +32,7 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 
 
 ## 📚 Selected Publications 
+
 - Wood, K. A., Kim, Y. K., **Ng, Y. T.**, Huo, M., Fingerman, K. L. (in press). Black and White young  adults’ support to midlife parents. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences* 
 
 - Fingerman, K. L., Kim., Y. K., **Ng, Y. T.**, Zhang, S., Huo, M., Charles, S. T., & Birditt, K. S. (in press). Television Viewing, Physical Activity, and Loneliness in Late Life. *The Gerontologist* 
@@ -48,6 +51,15 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 
 - Huo, M., **Ng, Y. T.**, Fuentecilla, J. L., Leger, K., & Charles, S. T. (2020). Positive encounters as a buffer: older adults’ pain and sleep disturbances in everyday life. *Journal of Aging and Health*, *33*(1-2), 75–85. [https://doi.org/10.1177/0898264320958320](https://doi.org/10.1177/0898264320958320)
 
+- Fingerman, K. L., Huo, M., **Ng, Y. T.**, & Zarit, S. H., (2019). Social relationships and cognitive development across adulthood. In A. K. Thomas & A. Gutchess (Ed.), *Handbook of cognitive aging: A lifecourse perspective*. Cambridge, England: Cambridge University Press.
+
+
+## 🔨 Working Paper
+
+- **Ng, Y. T.**, & Fingerman, K. L. (in preparation). Older adults’ marital status, interpersonal support exchanges, and subjective well-being in a daily context.
+
+- Fingerman, K. L., **Ng, Y. T.**, Zhang, Z., Kim., Y. K., Munoz, E., & Birditt, K.S. (in preparation). Social encounters, language, and cognitive functioning 
+in late life.
 
 ## 🏆 Academic Honors 
 - **[2021]** Top Paper Award, Interpersonal Communication Division, International Communication Association (ICA)
