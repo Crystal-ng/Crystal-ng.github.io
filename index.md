@@ -10,24 +10,27 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 
 
 ## News  
-- **[2021 Nov]** Our paper about older adult’s marital status, conversation and well-being is accepted to [NCA 2021](https://www.natcom.org/).
-- **[2021 Nov]** Our poster presentation about support receipt among married and unmarried older adults is accpeted to [GSA 2021](https://www.gsa2021.org/) conference in Phoenix, AZ! 
-
+- **[2021 Nov]** My paper about older adult’s marital status, conversation and well-being is accepted to [NCA 2021](https://www.natcom.org/) in Seattle, WA.
+- **[2021 Nov]** My poster presentation about support receipt among married and unmarried older adults is accpeted to [GSA 2021](https://www.gsa2021.org/) virtual conference! 
+- **[2021 Oct]** I defensed my dissertation proposal titled 'Friendship, Racial/ethnic Differences and Well-being in Adulthood' in early October. Yay!
 
 
 ## 💡 Research Interests 
 
 - **Friendships and Social Relationships Across Adulthood** <br>
+- **Interpersonal Interactions, Social Support, and Everyday Language Use** <br>
 - **Racial/Ethnic Disparities in Social Relationships** <br>
 - **Daily Experiences & Well-being** 
 
 ## 🎓 Education 
+2022 (anticipated) **PH.D** in **Human Development and Family Sciences**, The University of Texas at Austin <br>
 2019 **M.A.** in **Human Development and Family Sciences**, The University of Texas at Austin <br>
 2016	**BSSc.** in **Psychology**, **Minor** in Biology, The Chinese University of Hong Kong <br>
 2014 **Exchange Program** in **Psychology & Biology**, University of Wisconsin-Madison <br>
 
 
 ## 📚 Selected Publications 
+- Wood, K. A., Kim, Y. K., **Ng, Y. T.**, Huo, M., Fingerman, K. L. (in press). Black and White young  adults’ support to midlife parents. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences* 
 
 - Fingerman, K. L., Kim., Y. K., **Ng, Y. T.**, Zhang, S., Huo, M., Charles, S. T., & Birditt, K. S. (in press). Television Viewing, Physical Activity, and Loneliness in Late Life. *The Gerontologist* 
 
@@ -72,7 +75,9 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
   <br>
   National Communication Association (NCA)
   <br>
-  Texas National Council on Family Relations (NCFR)
+  National Council on Family Relations (NCFR)
+  <br>
+  Texas National Council on Family Relations (TXNCFR)
   <br>
   Southern Gerontological Society (SGS)
   <br>
