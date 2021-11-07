@@ -16,6 +16,7 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 - **[2021 Oct]** I defensed my dissertation proposal titled 'Friendship, Racial/ethnic Differences and Well-being in Adulthood' in early October. Yay!
 
 
+
 ## 💡 Research Interests 
 
 - **Friendships and Social Relationships Across Adulthood** <br>
@@ -23,12 +24,14 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 - **Racial/Ethnic Disparities in Social Relationships** <br>
 - **Daily Experiences & Well-being** 
 
+
 ## 🎓 Education 
 
 2022 (anticipated) **PH.D** in **Human Development and Family Sciences**, The University of Texas at Austin <br>
 2019 **M.A.** in **Human Development and Family Sciences**, The University of Texas at Austin <br>
 2016	**BSSc.** in **Psychology**, **Minor** in Biology, The Chinese University of Hong Kong <br>
 2014 **Exchange Program** in **Psychology & Biology**, University of Wisconsin-Madison <br>
+
 
 
 ## 📚 Selected Publications 
@@ -54,12 +57,15 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 - Fingerman, K. L., Huo, M., **Ng, Y. T.**, & Zarit, S. H., (2019). Social relationships and cognitive development across adulthood. In A. K. Thomas & A. Gutchess (Ed.), *Handbook of cognitive aging: A lifecourse perspective*. Cambridge, England: Cambridge University Press.
 
 
+
 ## 🔨 Working Paper
 
 - **Ng, Y. T.**, & Fingerman, K. L. (in preparation). Older adults’ marital status, interpersonal support exchanges, and subjective well-being in a daily context.
 
 - Fingerman, K. L., **Ng, Y. T.**, Zhou, Z., Kim., Y. K., Munoz, E., & Birditt, K. S. (in preparation). Social encounters, language, and cognitive functioning 
 in late life.
+
+
 
 ## 🏆 Academic Honors 
 - **[2021]** Top Paper Award, Interpersonal Communication Division, International Communication Association (ICA)
@@ -69,6 +75,8 @@ in late life.
 - **[2020]** Diversity Graduate Travel Award, SPSP Convention   
 - **[2019]** Graduate Student Poster Award, Texas Council on Family Relations (TXCFR)	
 - **[2015]** Lee Quo Wei CUHK Golden Jubilee Scholars, CUHK [(Presentation Ceremony Photo)](https://www.oia.cuhk.edu.hk/eng/gallery/the-second-lee-quo-wei-cuhk-golden-jubilee-scholarship-presentation-ceremony/the-second-lee-quo-wei-cuhk-golden-jubilee-scholarship-presentation-ceremony)
+
+
 
 
 ## 🎤 Selected Conference Presentations
@@ -99,6 +107,7 @@ in late life.
 - **Ng, Y. T.**, Huo, M., Gleason, M. E., & Fingerman, K. L. (2019, February). Daily social encounters in old age. Poster presented at the 2019 Annual Conference of Texas Council on Family Relations (TXCFR). Austin, TX. **[Graduate Student Poster Award]**
 
 - **Ng, Y. T.**, & Fung, H. H. (2016, May). Easy to lose temper in close relationships? The impact of age on angry responses in different relationship contexts. Poster presented at CUHK Undergraduate Research Symposium, Hong Kong.
+
 
 
 
