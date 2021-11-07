@@ -58,7 +58,7 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 
 - **Ng, Y. T.**, & Fingerman, K. L. (in preparation). Older adults’ marital status, interpersonal support exchanges, and subjective well-being in a daily context.
 
-- Fingerman, K. L., **Ng, Y. T.**, Zhang, Z., Kim., Y. K., Munoz, E., & Birditt, K.S. (in preparation). Social encounters, language, and cognitive functioning 
+- Fingerman, K. L., **Ng, Y. T.**, Zhou, Z., Kim., Y. K., Munoz, E., & Birditt, K. S. (in preparation). Social encounters, language, and cognitive functioning 
 in late life.
 
 ## 🏆 Academic Honors 
