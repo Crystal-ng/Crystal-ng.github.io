@@ -27,7 +27,7 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 
 ## 🎓 Education 
 
-2022 (anticipated) **PH.D** in **Human Development and Family Sciences**, The University of Texas at Austin <br>
+2022 (expected) **PH.D** in **Human Development and Family Sciences**, The University of Texas at Austin <br>
 2019 **M.A.** in **Human Development and Family Sciences**, The University of Texas at Austin <br>
 2016	**BSSc.** in **Psychology**, **Minor** in Biology, The Chinese University of Hong Kong <br>
 2014 **Exchange Program** in **Psychology & Biology**, University of Wisconsin-Madison <br>
