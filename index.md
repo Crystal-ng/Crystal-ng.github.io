@@ -40,7 +40,7 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 
 - Fingerman, K. L., Kim., Y. K., **Ng, Y. T.**, Zhang, S., Huo, M., Charles, S. T., & Birditt, K. S. (in press). Television Viewing, Physical Activity, and Loneliness in Late Life. *The Gerontologist* 
 
-- Fingerman, K. L., Kim., Y. K., Zhang, S., **Ng, Y. T.**, Birditt, K.S. (in press). Late life in the living room: personal space, personality, and functional limitations. *The Gerontologist*.
+- Fingerman, K. L., Kim., Y. K., Zhang, S., **Ng, Y. T.**, Birditt, K.S. (in press). Late life in the living room: personal space, personality, and functional limitations. *The Gerontologist*. (<strong style="color:red">[Media highlight](https://www.kshvid.com/older-adults-are-happier-when-theres-match-between-personality-living-space)</strong>)
 
 - **Ng, Y. T.**, Huo, M., Han, S. H., Birditt, K. S. & Fingerman, K. L. (in press). Older adult’s marital status, conversation and well-being in everyday life. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*. [https://doi.org/10.1093/geronb/gbab112](https://doi.org/10.1093/geronb/gbab112)
 
