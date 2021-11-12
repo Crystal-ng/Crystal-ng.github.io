@@ -11,7 +11,7 @@ My name is Crystal Ng. I am a Ph.D. candidate at the University of Texas at Aust
 
 ## News 
 
-- **[2021 Nov]** My paper about older adult’s marital status, conversation frequency and well-being is accepted to [NCA 2021](https://www.natcom.org/) in Seattle, WA.
+- **[2021 Nov]** My paper about Daily conversation frequency and well-being is accepted to [NCA 2021](https://www.natcom.org/) in Seattle, WA.
 - **[2021 Nov]** My poster presentation about support receipt among married and unmarried older adults is accpeted to [GSA 2021](https://www.gsa2021.org/) virtual conference! 
 - **[2021 Oct]** I defensed my dissertation proposal titled 'Friendship, Racial/ethnic Differences and Well-being in Adulthood' in early October. Yay!
 
