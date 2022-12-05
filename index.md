@@ -63,6 +63,9 @@ My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan 
 
 
 ## 🔨 Working Paper
+- **Ng, Y. T.**, Fingerman, K. L., & Birditt, K.S. (Revised & Resubmitted). Friendships and emotional well-being in the context of race and age. The Gerontologist [pre-registered](https://osf.io/b5g2v/)
+
+- **Ng, Y. T.**, Han, S. H., Fingerman, K. L., & Birditt, K.S. (under review). Do friends get under the skin?. Everyday social encounters and cardiovascular functioning among Black and White American adults. Health Psychology [pre-registered](https://osf.io/d4jgy/)
 
 - **Ng, Y. T.**, & Fingerman, K. L. (in preparation). Older adults’ marital status, support exchanges with friends, and subjective well-being in a daily context. 
 
@@ -85,6 +88,13 @@ My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan 
 
 
 ## 🎤 Selected Conference Presentations
+
+- **Ng, Y. T.**, Han, S. H., Fingerman, K. L., & Birditt, K.S. (2022, November). Do friends get under the skin?: Everyday social interactions and cardiovascular functioning among Black and White Americans. (Chair: M. Huo, Daily Contexts and Health Outcomes Across Adulthood). Symposium paper presented at the 75h Annual Scientific Meeting of Gerontological Society of America (GSA). Indianapolis, Indiana. 
+
+- **Ng, Y. T.**, Han, S. H., Fingerman, K. L., & Birditt, K.S. (2022, August). Friendships and emotional well-being in the context of race and age. Poster presented at the annual American Psychology Association (APA) convention 2022. Virtual Conference.
+
+- **Ng, Y. T.**, Han, S. H., Fingerman, K. L., & Birditt, K.S. (2022, June). Do friends get under the skin?: Everyday social interactions and cardiovascular functioning among Black and White Americans. Paper presented at the Society for Ambulatory Assessment Conference (SAA). Virtual Conference.
+
 - **Ng, Y. T.** & Fingerman, K. L. (2021, May). Older adult’s marital status, conversation and well-being in everyday life. Paper presented at the 2021 International Communication Association (ICA). Virtual conference. **[Top Overall Paper award, Interpersonal Communication Division]**
 
 - **Ng, Y. T.** (2021, February). The effects of marital status on older adults' daily support exchanges with social partners. Poster to be presented at the Society for Personality and Social Psychology (SPSP) 2021 Conference. Virtual.
@@ -111,15 +121,12 @@ My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan 
 
 - **Ng, Y. T.**, Huo, M., Gleason, M. E., & Fingerman, K. L. (2019, February). Daily social encounters in old age. Poster presented at the 2019 Annual Conference of Texas Council on Family Relations (TXCFR). Austin, TX. **[Graduate Student Poster Award]**
 
-- **Ng, Y. T.**, & Fung, H. H. (2016, May). Easy to lose temper in close relationships? The impact of age on angry responses in different relationship contexts. Poster presented at CUHK Undergraduate Research Symposium, Hong Kong.
-
-
 
 
 ## 📃 Services 
 - Secretary: [Texas Aging & Longevity Center Graduate Student Council](https://liberalarts.utexas.edu/talc/students/graduate-student-council.php)
-- Journal Reviewers: [The Journals of Gerontology, Series B: Social Science](https://academic.oup.com/psychsocgerontology)
-- Ad Hoc Reviewer: [Journal of Marriage and Family](https://onlinelibrary.wiley.com/journal/17413737), [Innovation in Aging](https://academic.oup.com/innovateage) and [Emerging Adulthood](https://journals.sagepub.com/home/eax)
+- Journal Reviewers: [The Journals of Gerontology, Series B: Social Science](https://academic.oup.com/psychsocgerontology), [Journals of Gerontology, Series B: Psychological Science](https://academic.oup.com/psychsocgerontology), [Journal of Family Theory & Review](https://www.ncfr.org/jftr), [Innovation in Aging](https://academic.oup.com/innovateage), [Current Psychology](https://www.springer.com/journal/12144/)
+- Ad Hoc Reviewer: [Journal of Marriage and Family](https://onlinelibrary.wiley.com/journal/17413737), and [Emerging Adulthood](https://journals.sagepub.com/home/eax)
 - Conference Reviewers: [GSA 2020](https://www.gsa2021.org/), [ICA 2020, ICA 2021](https://www.icahdq.org/page/ICA2021), [SPSP 2020](https://meeting.spsp.org/), and [Undergraduate Research Forum](https://cns.utexas.edu/tides/undergraduate/undergraduate-research-forum)
 - Members:
   <br>
