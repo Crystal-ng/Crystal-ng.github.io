@@ -16,7 +16,12 @@ My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan 
 - **[2021 Nov]** My paper about daily conversation frequency and well-being is accepted to [NCA 2021](https://www.natcom.org/) in Seattle, WA and was recognized as one of the top 4 student papers in the interpersonal communication division!
 
 
+## 🎓 Education 
 
+2022 **PH.D** in **Human Development and Family Sciences**, The University of Texas at Austin <br>
+2019 **M.A.** in **Human Development and Family Sciences**, The University of Texas at Austin <br>
+2016 **BSSc.** in **Psychology**, **Minor** in Biology, The Chinese University of Hong Kong <br>
+2014 **Exchange Program** in **Psychology & Biology**, University of Wisconsin-Madison <br>
 
 
 ## 💡 Research Interests 
@@ -25,15 +30,6 @@ My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan 
 - **Interpersonal Interactions, Social Support, and Everyday Language Use** <br>
 - **Racial/Ethnic Disparities in Social Relationships** <br>
 - **Daily Experiences & Well-being** 
-
-
-## 🎓 Education 
-
-2022 **PH.D** in **Human Development and Family Sciences**, The University of Texas at Austin <br>
-2019 **M.A.** in **Human Development and Family Sciences**, The University of Texas at Austin <br>
-2016 **BSSc.** in **Psychology**, **Minor** in Biology, The Chinese University of Hong Kong <br>
-2014 **Exchange Program** in **Psychology & Biology**, University of Wisconsin-Madison <br>
-
 
 
 ## 📚 Selected Publications 
