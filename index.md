@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me 
 
-My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan working at the Institute for Social Reserach and the Department of Physical Medicine & Rehabilitation. I obtained a Ph.D. in Human Development and Family Sciences with a [Portfolio in Aging & Health](https://liberalarts.utexas.edu/talc/students/portfolio-in-aging-and-health/index.php) and [Applied Statistical Modeling](https://stat.utexas.edu/graduate/portfolio-in-applied-statistical-modeling) from the University of Texas at Austin in August 2022. In my leisure time, I enjoy assembling furniture, reading books and news, and trying new recipes. I also enjoy immersing myself into the nature through walking with my family dog [Shakespe](https://www.facebook.com/ShakespeTheCorgi), hiking, mountain or road biking, and paddle boarding. 
+My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan working at the Institute for Social Reserach and the Department of Physical Medicine & Rehabilitation. I obtained a Ph.D. in Human Development and Family Sciences with a [Portfolio in Aging & Health](https://liberalarts.utexas.edu/talc/students/portfolio-in-aging-and-health/index.php) and [Applied Statistical Modeling](https://stat.utexas.edu/graduate/portfolio-in-applied-statistical-modeling) from the University of Texas at Austin in August 2022. Currently, I'm doing social and clincal researach on, for and with people with physical disability and in racial minozied groups. My research work utilizes mobile and wearable technologies to track individual’s moment-to-moment activities, symptoms, and functioning in real-life settings. In my leisure time, I enjoy assembling furniture, reading books and news, and trying new recipes. I also enjoy immersing myself into the nature through walking with my family dog [Shakespe](https://www.facebook.com/ShakespeTheCorgi), hiking, mountain or road biking, and paddle boarding. 
 
 
 
 
 ## News 
-- **[2022 Nov]** I won a Dissertation Award from  [2022 GSA conference](https://www.natcom.org/) in Indianapolis, IN!
+- **[2022 Nov]** I won a Dissertation Award from  [2022 GSA conference]([https://www.natcom.org/](https://www.geron.org/press-room/press-releases/2022-press-releases/1479-the-gerontological-society-of-america-congratulates-new-2022-awardees)) in Indianapolis, IN!
 - **[2022 Aug]** I defensed my dissertation titled 'Friendship, Racial/ethnic Differences and Well-being in Adulthood'. Yay!
 - **[2022 Aug]** I presented a paper 'Do friends get under the skin?: Everyday social interactions and cardiovascular functioning among Black and White Americans' at the Societty for Ambulatory Assessment (SAA) Conference!
 - **[2021 Nov]** My paper about daily conversation frequency and well-being is accepted to [NCA 2021](https://www.natcom.org/) in Seattle, WA and was recognized as one of the top 4 student papers in the interpersonal communication division!
@@ -38,13 +38,15 @@ My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan 
 
 ## 📚 Selected Publications 
 
-- Wood, K. A., Kim, Y. K., **Ng, Y. T.**, Huo, M., Fingerman, K. L. (2021). Black and White young  adults’ support to midlife parents. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences* 
+- Lee, S.,**Ng, Y. T.**, Charles, S. T., Fingerman, K. L., & Almeida, D. M. (in press). Who has active lifestyles? Personality and activity diversity in adulthood. *The Journals of Gerontology, Series B: Psychological Sciences*.
 
-- Fingerman, K. L., Kim., Y. K., **Ng, Y. T.**, Zhang, S., Huo, M., Charles, S. T., & Birditt, K. S. (in press). Television Viewing, Physical Activity, and Loneliness in Late Life. *The Gerontologist* 
+- Fingerman, K. L., Kim., Y. K., **Ng, Y. T.**, Zhang, S., Huo, M., Charles, S. T., & Birditt, K. S. (2022). Television Viewing, Physical Activity, and Loneliness in Late Life. *The Gerontologist*. 62(7), 1006–1017. https://doi.org/10.1093/geront/gnab120
 
-- Fingerman, K. L., Kim., Y. K., Zhang, S., **Ng, Y. T.**, Birditt, K.S. (in press). Late life in the living room: personal space, personality, and functional limitations. *The Gerontologist*. (<strong style="color:red">[Media highlight](https://www.kshvid.com/older-adults-are-happier-when-theres-match-between-personality-living-space)</strong>)
+- Fingerman, K. L., Kim., Y. K., Zhang, S., **Ng, Y. T.**, Birditt, K.S. (2022). Late life in the living room: personal space, personality, and functional limitations. *The Gerontologist*. 62(4), 519–529. https://doi.org/10.1093/geront/gnab093 (<strong style="color:red">[Media highlight](https://www.kshvid.com/older-adults-are-happier-when-theres-match-between-personality-living-space)</strong>)
 
-- **Ng, Y. T.**, Huo, M., Han, S. H., Birditt, K. S. & Fingerman, K. L. (in press). Older adult’s marital status, conversation and well-being in everyday life. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*. [https://doi.org/10.1093/geronb/gbab112](https://doi.org/10.1093/geronb/gbab112)
+- **Ng, Y. T.**, Huo, M., Han, S. H., Birditt, K. S. & Fingerman, K. L. (2022). Older adult’s marital status, conversation and well-being in everyday life. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*. 77(3), 499–512. [https://doi.org/10.1093/geronb/gbab112](https://doi.org/10.1093/geronb/gbab112)
+
+- Wood, K. A., Kim, Y. K., **Ng, Y. T.**, Huo, M., Fingerman, K. L. (2021). Black and White young  adults’ support to midlife parents. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*. gbab205. https://doi.org/10.1093/geronb/gbab205
 
 - Fingerman, K. L., **Ng, Y. T.**, Huo, M., Birditt, K.S., Charles, S. T., & Zarit, S. (2021). Functional limitations, social integration, and daily activities in late life. *The Journals of Gerontology: Psychological Sciences*. *gbab014*. [https://doi.org/10.1093/geronb/gbab014](https://doi.org/10.1093/geronb/gbab014)
 
@@ -62,14 +64,14 @@ My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan 
 
 ## 🔨 Working Paper
 
-- **Ng, Y. T.**, & Fingerman, K. L. (in preparation). Older adults’ marital status, interpersonal support exchanges, and subjective well-being in a daily context.
+- **Ng, Y. T.**, & Fingerman, K. L. (in preparation). Older adults’ marital status, support exchanges with friends, and subjective well-being in a daily context. 
 
-- **Ng, Y. T.**, Kim., Y. K., Zhou, Z., & Fingerman, K. L. (in preparation). Social encounters, language, and cognitive functioning 
-in late life.
+- **Ng, Y. T.**, Kim., Y. K., Zhou, Z., & Fingerman, K. L. (in preparation). Language and social encounters in late life.
 
 
 
 ## 🏆 Academic Honors 
+- **[2022]** Dissertation Research Award, Gerontological Society of America (GSA)
 - **[2021]** Top Four Student Paper, Interpersonal Communication Division, National Communication Association (NCA)
 - **[2021]** Top Paper Award, Interpersonal Communication Division, International Communication Association (ICA)
 - **[2020]** Top Paper Award, Aging Division, National Communication Association (NCA)
