@@ -38,7 +38,7 @@ My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan 
 
 ## 📚 Selected Publications 
 
-- Lee, S.,**Ng, Y. T.**, Charles, S. T., Fingerman, K. L., & Almeida, D. M. (in press). Who has active lifestyles? Personality and activity diversity in adulthood. *The Journals of Gerontology, Series B: Psychological Sciences*.
+- Lee, S., **Ng, Y. T.**, Charles, S. T., Fingerman, K. L., & Almeida, D. M. (in press). Who has active lifestyles? Personality and activity diversity in adulthood. *The Journals of Gerontology, Series B: Psychological Sciences*.
 
 - Fingerman, K. L., Kim., Y. K., **Ng, Y. T.**, Zhang, S., Huo, M., Charles, S. T., & Birditt, K. S. (2022). Television Viewing, Physical Activity, and Loneliness in Late Life. *The Gerontologist*. 62(7), 1006–1017. https://doi.org/10.1093/geront/gnab120
 
@@ -63,9 +63,9 @@ My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan 
 
 
 ## 🔨 Working Paper
-- **Ng, Y. T.**, Fingerman, K. L., & Birditt, K.S. (Revised & Resubmitted). Friendships and emotional well-being in the context of race and age. The Gerontologist [pre-registered](https://osf.io/b5g2v/)
+- **Ng, Y. T.**, Fingerman, K. L., & Birditt, K.S. (Revised & Resubmitted). Friendships and emotional well-being in the context of race and age. The Gerontologist [(pre-registered)](https://osf.io/b5g2v/)
 
-- **Ng, Y. T.**, Han, S. H., Fingerman, K. L., & Birditt, K.S. (under review). Do friends get under the skin?. Everyday social encounters and cardiovascular functioning among Black and White American adults. Health Psychology [pre-registered](https://osf.io/d4jgy/)
+- **Ng, Y. T.**, Han, S. H., Fingerman, K. L., & Birditt, K.S. (under review). Do friends get under the skin?. Everyday social encounters and cardiovascular functioning among Black and White American adults. Health Psychology [(pre-registered)](https://osf.io/d4jgy/)
 
 - **Ng, Y. T.**, & Fingerman, K. L. (in preparation). Older adults’ marital status, support exchanges with friends, and subjective well-being in a daily context. 
 
@@ -88,8 +88,6 @@ My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan 
 
 
 ## 🎤 Selected Conference Presentations
-
-- **Ng, Y. T.**, Han, S. H., Fingerman, K. L., & Birditt, K.S. (2022, November). Do friends get under the skin?: Everyday social interactions and cardiovascular functioning among Black and White Americans. (Chair: M. Huo, Daily Contexts and Health Outcomes Across Adulthood). Symposium paper presented at the 75h Annual Scientific Meeting of Gerontological Society of America (GSA). Indianapolis, Indiana. 
 
 - **Ng, Y. T.**, Han, S. H., Fingerman, K. L., & Birditt, K.S. (2022, August). Friendships and emotional well-being in the context of race and age. Poster presented at the annual American Psychology Association (APA) convention 2022. Virtual Conference.
 
