@@ -11,7 +11,7 @@ My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan 
 
 ## News 
 - **[2023 Aug]** I was selected to receive the [APA Division 20 Dissertation Award in Psychology of Aging]([[https://micda.isr.umich.edu/programs/pilot-projects/](https://www.apadivisions.org/division-20/awards/dissertation)]([https://micda.isr.umich.edu/programs/pilot-projects/](https://www.apadivisions.org/division-20/awards/dissertation)))
-- **[2023 June]** I obtained a Pilot Grant (P30AG012846) from the [Michigan Center on the Demography of Aging (MiCDA)]([https://micda.isr.umich.edu/programs/pilot-projects/](https://micda.isr.umich.edu/programs/pilot-projects/))
+- **[2023 June]** I obtained a Pilot Grant (P30AG012846) from the [Michigan Center on the Demography of Aging (MiCDA)]([https://micda.isr.umich.edu/programs/pilot-projects/](https://micda.isr.umich.edu/programs/pilot-projects/)) to study the role of friends among demantia caregivers in daily life! Yay!
 - **[2023 May]** I obtained a a Trainee Research Grant from Michigan Medicine to conduct a focus group study to better understand the caregiving experiences, friendship patterns, and their implications for health and well-being among Black and White Multiple Sclerosis (MS) caregivers this Fall! 
 - **[2022 Nov]** I won a Dissertation Award from [2022 GSA conference]([https://www.natcom.org/](https://www.geron.org/press-room/press-releases/2022-press-releases/1479-the-gerontological-society-of-america-congratulates-new-2022-awardees)) in Indianapolis, IN!
 - **[2022 Aug]** I defensed my dissertation titled 'Friendship, Racial/ethnic Differences and Well-being in Adulthood'. Yay!
