@@ -44,7 +44,7 @@ My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan 
   
 - Brown, C., Jeon, S., **Ng, Y. T.**, Lee, S., Charles, S. T., & Fingerman, K. L. (2023). Switching up how you get in your steps: Daily activity diversity and cognitive functioning. *Psychology and Aging*, 38(6), 483–493. [https://doi.org/10.1037/pag0000770](https://doi.org/10.1037/pag0000770)
   
-- Choi, J., **Ng, Y. T.**, Han, S. H., & Munoz, E., (in press). The effect of neighborhood cohesion across the lifespan on cognitive health. The Journals of Gerontology, Series B: Psychological Sciences and Social Science. gbad095, [https://doi.org/10.1093/geronb/gbad095](https://doi.org/10.1093/geronb/gbad095)
+- Choi, J., **Ng, Y. T.**, Han, S. H., & Munoz, E., (in press). The effect of neighborhood cohesion across the lifespan on cognitive health. *The Journals of Gerontology, Series B: Psychological Sciences and Social Science*. gbad095, [https://doi.org/10.1093/geronb/gbad095](https://doi.org/10.1093/geronb/gbad095)
   
 - Lee, S., **Ng, Y. T.**, Charles, S. T., Fingerman, K. L., & Almeida, D. M. (2023). Who has active lifestyles? Personality and activity diversity in adulthood. *The Journals of Gerontology, Series B: Psychological Sciences*. 78(4), 659–669. [https://doi.org/10.1093/geronb/gbac192](https://doi.org/10.1093/geronb/gbac192)
 
