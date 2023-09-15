@@ -10,7 +10,7 @@ My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan 
 
 
 ## News 
-- **[2023 Aug]** I was selected to receive the [APA Division 20 Dissertation Award in Psychology of Aging](https://www.apadivisions.org/division-20/awards/dissertation)!
+- **[2023 Aug]** I was selected to receive the [APA Division 20 Dissertation Award in Psychology of Aging]([[https://micda.isr.umich.edu/programs/pilot-projects/](https://www.apadivisions.org/division-20/awards/dissertation)]([https://micda.isr.umich.edu/programs/pilot-projects/](https://www.apadivisions.org/division-20/awards/dissertation)))
 - **[2023 June]** I obtained a Pilot Grant (P30AG012846) from the [Michigan Center on the Demography of Aging (MiCDA)]([https://micda.isr.umich.edu/programs/pilot-projects/](https://micda.isr.umich.edu/programs/pilot-projects/))
 - **[2023 May]** I obtained a a Trainee Research Grant from Michigan Medicine to conduct a focus group study to better understand the caregiving experiences, friendship patterns, and their implications for health and well-being among Black and White Multiple Sclerosis (MS) caregivers this Fall! 
 - **[2022 Nov]** I won a Dissertation Award from [2022 GSA conference]([https://www.natcom.org/](https://www.geron.org/press-room/press-releases/2022-press-releases/1479-the-gerontological-society-of-america-congratulates-new-2022-awardees)) in Indianapolis, IN!
@@ -106,17 +106,9 @@ My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan 
 
 - **Ng, Y. T.**, Huo, M., & Fingerman, K. L. (2020, November). Older adult’s marital status, social interactions, and conversations in everyday life. Paper presented at the 2020 National Communication Association (NCA). Virtual conference. **[Top Paper award, Aging Division]**
 
-- Fingerman, K. L., Kim. Y. J., Zhang, S., **Ng, Y. T.**, Birditt, K. S. (2020, November). Life in the living room. Symposium paper (Chairs: **Y. T. Ng** & E. Munoz) Where We Live Matters: Residential Influences on Health and Well-Being: Streaming Symposia) presented at the 2020 Gerontological Society of America (GSA). Virtual conference.
-
 - **Ng, Y. T.** & Fingerman, K. L. (2020, February). Older adults’ daily social contact, conversation and cognitive health. Poster presented at the 2020. St. David's CHPR 18th Annual Conference. Austin, TX. **[Graduate Student Poster Award]**
 
-- **Ng, Y. T.**, Huo, M., & Fingerman, K. L. (2019, November). Does receiving support help? Older adults’ pain and sleep disturbances. Symposium paper (Chair: S. Lee, Psychological and Social Factors Associated with Sleep Health Across Adulthood) presented at the 2019 Gerontological Society of America (GSA). Austin, TX.
-
-- **Ng, Y. T.**, Fingerman, K. L, & Huo, M. (2019, November). Television viewing and health in late life. Symposium paper (Chair: K. S. Birditt, It’s the Little Things That Count: Implications of Daily Experiences for Well-Being and Biological Indicators) presented at the 2019 Annual Scientific Meeting of Gerontological Society of America (GSA). Austin, TX.
-
 - **Ng, Y. T.** (2019, October). Friendships in old age: Daily encounters and emotional well-being. Thesis presented at the 2019 Three Minutes Thesis competition (3MT). The University of Texas at Austin, Austin, TX. **[Competition Video](https://www.youtube.com/watch?v=q3L6Fj--kl8)**
-
-- **Ng, Y. T.**, Huo, M., & Fingerman, K. L. (2019, April). Daily experiences with friends in late life. Poster presented at the 2019 Annual Conference of Southern Gerontological Society (SGS). San Destin, FL.
 
 - **Ng, Y. T.**, Huo, M., Gleason, M. E., & Fingerman, K. L. (2019, February). Daily social encounters in old age. Poster presented at the 2019 Annual Conference of Texas Council on Family Relations (TXCFR). Austin, TX. **[Graduate Student Poster Award]**
 
