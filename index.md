@@ -4,18 +4,17 @@ layout: homepage
 
 ## About Me 
 
-My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan working at the Institute for Social Reserach and the Department of Physical Medicine & Rehabilitation. I obtained a Ph.D. in Human Development and Family Sciences with specializations in [Aging & Health](https://liberalarts.utexas.edu/talc/students/portfolio-in-aging-and-health/index.php) and [Applied Statistical Modeling](https://stat.utexas.edu/graduate/portfolio-in-applied-statistical-modeling) from the University of Texas at Austin in August 2022. Currently, I'm conducting social and clincal researach to better understand how social factors (including but not limited to relationships with spouses, friends, siblings, neighbors) shape health or well-being for different populations (e.g., caregivers, clinical populations such as people with dementia, people with physical disability, racial minority groups). My research work utilizes mobile and wearable technologies to track individual’s moment-to-moment activities, symptoms, and functioning in real-life settings. In my leisure time, I enjoy assembling furniture, reading books and news, and trying new recipes. I also enjoy immersing myself into the nature through walking with my family dog [Shakespe](https://www.facebook.com/ShakespeTheCorgi), hiking, biking, and paddle boarding. 
+My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan working at the Institute for Social Reserach and the Department of Physical Medicine & Rehabilitation. I obtained a Ph.D. in Human Development and Family Sciences with specializations in [Aging & Health](https://liberalarts.utexas.edu/talc/students/portfolio-in-aging-and-health/index.php) and [Applied Statistical Modeling](https://stat.utexas.edu/graduate/portfolio-in-applied-statistical-modeling) from the University of Texas at Austin in August 2022. Currently, I'm conducting social and clincal researach to better understand how social factors (including but not limited to relationships with spouses, friends, siblings, neighbors) shape health or well-being for different populations (e.g., caregivers, racial minority groups, clinical populations such as people with dementia, people with physical disability). My research work utilizes mobile and wearable technologies to track individual’s moment-to-moment activities, symptoms, and functioning in real-life settings. In my leisure time, I enjoy assembling furniture, reading books and news, and trying new recipes. I also enjoy immersing myself into the nature through walking with my family dog [Shakespe](https://www.facebook.com/ShakespeTheCorgi), hiking, biking, and paddle boarding. 
 
 
 
 
 ## News 
-- **[2023 Aug]** I was selected to receive the [APA Division 20 Dissertation Award in Psychology of Aging]([[https://www.natcom.org/](https://www.geron.org/press-room/press-releases/2022-press-releases/1479-the-gerontological-society-of-america-congratulates-new-2022-awardees](https://www.apadivisions.org/division-20/awards/dissertation))!
+- **[2023 Aug]** I was selected to receive the [APA Division 20 Dissertation Award in Psychology of Aging](https://www.apadivisions.org/division-20/awards/dissertation)!
 - **[2023 June]** I obtained a Pilot Grant (P30AG012846) from the [Michigan Center on the Demography of Aging (MiCDA)]([https://micda.isr.umich.edu/programs/pilot-projects/](https://micda.isr.umich.edu/programs/pilot-projects/))
 - **[2023 May]** I obtained a a Trainee Research Grant from Michigan Medicine to conduct a focus group study to better understand the caregiving experiences, friendship patterns, and their implications for health and well-being among Black and White Multiple Sclerosis (MS) caregivers this Fall! 
 - **[2022 Nov]** I won a Dissertation Award from [2022 GSA conference]([https://www.natcom.org/](https://www.geron.org/press-room/press-releases/2022-press-releases/1479-the-gerontological-society-of-america-congratulates-new-2022-awardees)) in Indianapolis, IN!
 - **[2022 Aug]** I defensed my dissertation titled 'Friendship, Racial/ethnic Differences and Well-being in Adulthood'. Yay!
-- **[2022 Aug]** I presented a paper 'Do friends get under the skin?: Everyday social interactions and cardiovascular functioning among Black and White Americans' at the Societty for Ambulatory Assessment (SAA) Conference!
 - **[2021 Nov]** My paper about daily conversation frequency and well-being is accepted to [NCA 2021](https://www.natcom.org/) in Seattle, WA and was recognized as one of the top 4 student papers in the interpersonal communication division!
 
 
@@ -43,7 +42,7 @@ My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan 
 
 - **Ng, Y. T.**, Fingerman, K. L., & Birditt, K.S. (2023). Friendships and emotional well-being in the context of race and age. *The Gerontologist*. 63, 1129–1139 [https://doi.org/10.1093/geront/gnad007](https://doi.org/10.1093/geront/gnad007).
   
-- Brown, C., Jeon, S., **Ng, Y. T.**, Lee, S., Charles, S. T., & Fingerman, K. L. (in press). Switching up how you get in your steps: Daily activity diversity and cognitive functioning. *Psychology and Aging*, 38(6), 483–493. [https://doi.org/10.1037/pag0000770](https://doi.org/10.1037/pag0000770)
+- Brown, C., Jeon, S., **Ng, Y. T.**, Lee, S., Charles, S. T., & Fingerman, K. L. (2023). Switching up how you get in your steps: Daily activity diversity and cognitive functioning. *Psychology and Aging*, 38(6), 483–493. [https://doi.org/10.1037/pag0000770](https://doi.org/10.1037/pag0000770)
   
 - Choi, J., **Ng, Y. T.**, Han, S. H., & Munoz, E., (in press). The effect of neighborhood cohesion across the lifespan on cognitive health. The Journals of Gerontology, Series B: Psychological Sciences and Social Science. gbad095, [https://doi.org/10.1093/geronb/gbad095](https://doi.org/10.1093/geronb/gbad095)
   
@@ -101,25 +100,15 @@ My name is Crystal Ng. I am a postdoctoral fellow at the University of Michigan 
 
 - **Ng, Y. T.**, Chopik. W. J., & Fingerman, K. L. (2023, November). Daily Support Exchanges with Friends and Psychological Well-being in Late Life. (Chair: K. D. Moore & K. C., Britt, ESPO and Health Sciences Section Symposium: Building Bridges: Leveraging Social Connections and Environments to Improve Health in Later Life). Symposium paper presented at the 76h Annual Scientific Meeting of Gerontological Society of America (GSA). Tampa, FL
 
-- **Ng, Y. T.**, Han, S. H., Fingerman, K. L., & Birditt, K.S. (2022, November). Do friends get under the skin?: Everyday social interactions and cardiovascular functioning among Black and White Americans. (Chair: M. Huo, Daily Contexts and Health Outcomes Across Adulthood). Symposium paper presented at the 75h Annual Scientific Meeting of Gerontological Society of America (GSA). Indianapolis, Indiana. 
-
 - **Ng, Y. T.**, Han, S. H., Fingerman, K. L., & Birditt, K.S. (2022, June). Do friends get under the skin?: Everyday social interactions and cardiovascular functioning among Black and White Americans. Paper presented at the Society for Ambulatory Assessment Conference (SAA). Virtual Conference.
 
 - **Ng, Y. T.** & Fingerman, K. L. (2021, May). Older adult’s marital status, conversation and well-being in everyday life. Paper presented at the 2021 International Communication Association (ICA). Virtual conference. **[Top Overall Paper award, Interpersonal Communication Division]**
 
-- **Ng, Y. T.** (2021, February). The effects of marital status on older adults' daily support exchanges with social partners. Poster to be presented at the Society for Personality and Social Psychology (SPSP) 2021 Conference. Virtual.
-
 - **Ng, Y. T.**, Huo, M., & Fingerman, K. L. (2020, November). Older adult’s marital status, social interactions, and conversations in everyday life. Paper presented at the 2020 National Communication Association (NCA). Virtual conference. **[Top Paper award, Aging Division]**
-
-- **Ng, Y. T.**, Zhang, S., Britt, K., Colera, G., Birditt, K. S., Charles, S. T., & Fingerman, K. L. (2020, November). Living alone during covid-19: Social contact and emotional well-being among older adults. Late breaker poster presented at the 2020 Annual Scientific Meeting of Gerontological Society of America (GSA). Virtual conference.
 
 - Fingerman, K. L., Kim. Y. J., Zhang, S., **Ng, Y. T.**, Birditt, K. S. (2020, November). Life in the living room. Symposium paper (Chairs: **Y. T. Ng** & E. Munoz) Where We Live Matters: Residential Influences on Health and Well-Being: Streaming Symposia) presented at the 2020 Gerontological Society of America (GSA). Virtual conference.
 
 - **Ng, Y. T.** & Fingerman, K. L. (2020, February). Older adults’ daily social contact, conversation and cognitive health. Poster presented at the 2020. St. David's CHPR 18th Annual Conference. Austin, TX. **[Graduate Student Poster Award]**
-
-- **Ng, Y. T.**, Huo, M., Gleason, M. E., Neff, L. A., & Fingerman, K. L. (2020, February). Daily social encounters in late life. Poster presented at the 2020 Annual Conference of Society for Personality and Social Psychology (SPSP). New Orleans, LA.
-
-- **Ng, Y. T.**, Huo, M., & Fingerman, K. L. (2019, December). Chattier with friends: Older adults’ daily social contact and conversation. Poster presented at the 2019 Aging and Health Informatics Conference (AHIC). Austin, TX.
 
 - **Ng, Y. T.**, Huo, M., & Fingerman, K. L. (2019, November). Does receiving support help? Older adults’ pain and sleep disturbances. Symposium paper (Chair: S. Lee, Psychological and Social Factors Associated with Sleep Health Across Adulthood) presented at the 2019 Gerontological Society of America (GSA). Austin, TX.
 
